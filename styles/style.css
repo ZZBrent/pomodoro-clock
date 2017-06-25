@@ -1,0 +1,41 @@
+h3 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: -30px;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+}
+
+h4 {
+    margin-right: 20px;
+}
+
+input {
+    margin-right: 20px;
+}
+
+button {
+    margin: 20px;
+}
+
+#myProgress {
+    width: 75%;
+    background-color: #ddd;
+    margin: auto;
+    display: none;
+}
+
+#myBar {
+    width: 0%;
+    height: 30px;
+    background-color: red;
+}
+#start {
+    margin-bottom: 20px;
+}
